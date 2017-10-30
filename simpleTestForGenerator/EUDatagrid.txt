@@ -9,7 +9,7 @@ Installation, use, reproduction, display, modification and redistribution of thi
 1. Redistributions of this software, with or without modification, must reproduce the above copyright notice and the above license statement as well as this list of conditions, in the software, the user documentation and any other materials provided with the software.
 
 2. The user documentation, if any, included with a redistribution, must include the following notice:
-    “"This product includes software developed by the EU DataGrid (http://www.eu-datagrid.org/)."
+   "This product includes software developed by the EU DataGrid (http://www.eu-datagrid.org/)."
 
 Alternatively, if that is where third-party acknowledgments normally appear, this acknowledgment must be reproduced in the software itself.
 

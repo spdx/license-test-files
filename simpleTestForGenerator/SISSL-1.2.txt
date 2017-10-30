@@ -1,6 +1,6 @@
 SUN INDUSTRY STANDARDS SOURCE LICENSE
 Version 1.2
- 1.0 DEFINITIONS 
+1.0 DEFINITIONS 
 
      1.1 Commercial Use means distribution or otherwise making the Original Code available to a third party. 
 
