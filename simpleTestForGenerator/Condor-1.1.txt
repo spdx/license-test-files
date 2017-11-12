@@ -10,7 +10,9 @@ Installation, use, reproduction, display, modification and redistribution of thi
 
 1.	Redistributions of this Software, with or without modification, must reproduce this Condor Public License in: (1) the Software, and (2) any user documentation or other similar material which is provided with the Software.
 
-2.	Any user documentation included with a redistribution must include the following notice:``This product includes software from the Condor® Project (http://www.condorproject.org/)Alternatively, if that is where third-party acknowledgments normally appear, this acknowledgment must be reproduced in the Software itself. 
+2.	Any user documentation included with a redistribution must include the following notice:
+``This product includes software from the Condor® Project (http://www.condorproject.org/)"
+Alternatively, if that is where third-party acknowledgments normally appear, this acknowledgment must be reproduced in the Software itself. 
 3.	Any academic report, publication, or other academic disclosure of results obtained with this Software will acknowledge this Software's use by an appropriate citation.
 
 4.	The name Condor® is a registered trademark of the University of Wisconsin-Madison. The trademark may not be used to endorse or promote software, or products derived therefrom, and, other than as required by section 2 and 3 above, it may not be affixed to modified redistributions of this Software without the prior written approval, obtainable via email to condor-admin@cs.wisc.edu.

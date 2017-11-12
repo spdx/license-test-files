@@ -55,7 +55,7 @@ The text of the license begins here:
 	 a. for any code that a Contributor has removed from Covered Software; or
 	 b. for infringements caused by: (i) Your and any other third party’s modifications of Covered Software, or (ii) the combination of its Contributions with other software (except as part of its Contributor Version); or
 	 c. under Patent Claims infringed by Covered Software in the absence of its Contributions.
-	 his License does not grant any rights in the trademarks, service marks, or logos of any Contributor (except as may be necessary to comply with the notice requirements in Section 3.4).
+	 This License does not grant any rights in the trademarks, service marks, or logos of any Contributor (except as may be necessary to comply with the notice requirements in Section 3.4).
 
      2.4 Subsequent Licenses
 	 No Contributor makes additional grants as a result of Your choice to distribute the Covered Software under a subsequent version of this License (see Section 10.2) or under the terms of a Secondary License (if permitted under the terms of Section 3.3).

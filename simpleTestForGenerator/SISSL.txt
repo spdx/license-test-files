@@ -40,8 +40,8 @@ Sun Industry Standards Source License - Version 1.1
 	
           (a) under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications, and/or as part of a Larger Work; and
 	
-          (b) under Patents Claims infringed by the making, using or selling of Original Code, to make, have made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code (or portions thereof). 	
-          (c) the licenses granted in this Section 2.1(a) and (b) are effective on the date Initial Developer first distributes Original Code under the terms of this License. 	
+          (b) under Patents Claims infringed by the making, using or selling of Original Code, to make, have made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code (or portions thereof).
+          (c) the licenses granted in this Section 2.1(a) and (b) are effective on the date Initial Developer first distributes Original Code under the terms of this License.
           (d) Notwithstanding Section 2.1(b) above, no patent license is granted: 1) for code that You delete from the Original Code; 2) separate from the Original Code; or 3) for infringements caused by: i) the modification of the Original Code or ii) the combination of the Original Code with other software or devices, including but not limited to Modifications. 
 
 3.0 DISTRIBUTION OBLIGATIONS
@@ -109,8 +109,8 @@ are Copyright (C): _______________________________________
 All Rights Reserved.
 
 Contributor(s): _______________________________________
- EXHIBIT B - Standards
+EXHIBIT B - Standards
 
 The Standard is defined as the following:
 OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org
-OpenOffice.org Application Programming Interface Specification, located at  http://api.openoffice.org
+OpenOffice.org Application Programming Interface Specification, located at http://api.openoffice.org
